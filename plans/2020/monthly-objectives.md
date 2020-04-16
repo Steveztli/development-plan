@@ -3,6 +3,8 @@
 Small steps will help me accomplished my Year Objectives. 
 They should be measurable.
 
+Take time to reflect on my goals and the outcomes every 3 months.
+
 |         | Personal Philosophy      | HARD Goal                | Soft skill     | Better life/Challenge         | Happiness                 |
 |---------------------|--------------------------|--------------------------|----------------|-------------------------------|---------------------------|
 | Jan             | Know your onions ![](../img/v.png)        | Aws Essential: OReilly ![](../img/v.png)| Radical Candor ![](../img/v.png) | Create 18 months plan ![](../img/v.png)         | Drawing lesson ![](../img/v.png)            |

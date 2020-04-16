@@ -5,6 +5,7 @@ Having my personal development plan on an online and independant plateform
 
 ## General
 
+- __[Me](me.md)__
 - __[Personal philosophy](personal-philosophy.md)__
 
 ## Years
