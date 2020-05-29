@@ -31,7 +31,7 @@ I want money to have wonderful travels, going to Canada, spotting Moses in Swede
 
 1. You don't know JS books (on going)
 2. UX, Design, CSS
-3. Grow self discipline
+3. Grow self discipline (on going)
 4. Refactoring
 5. Happier, calmer and more optimistic
 6. Meditation and Yoga (on going)
