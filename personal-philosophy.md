@@ -16,8 +16,6 @@ I wanna grow my self-discipline, running, doing to gym, reading more, waking up 
 
 I also wanna become a smarter at people and be able to develop them for that I need to continue learning about soft skills and implementing it. I wanna be calmer, happier and more optimist for that I need to continue meditation/yoga and see if there are some training's on online course about those topics.
 
-Because my goal is to leave Belgium, English will become more important in my future, so getting better at it will be helpful in my job and my life.
-
 ---
 
 ## Private life
