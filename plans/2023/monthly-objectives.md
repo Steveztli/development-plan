@@ -17,6 +17,6 @@ Review:
 
 |        | Book 1     | Book 2                | Extra     |Improve daily life         | Happiness                 |
 |---------------------|--------------------------|--------------------------|----------------|-------------------------------|---------------------------|
- April             | Who gets promoted | 100 ways to improve your writing | Team Topologies videos + IT-Aliens - DORA | Meditation | ? |
-  May            | The courage to be disliked | Creativity Inc. |  EXTRA | IMPROVE | ? |
+ April             | Who gets promoted | The courage to be disliked | Team Topologies videos + IT-Aliens - DORA | Meditation | ? |
+  May            | Creativity Inc. | 100 ways to improve your writing |  EXTRA | IMPROVE | ? |
   June            | A Scrum Book: The spirit of the game | Agile leadership toolkit  | PSM III - Certification | / | / |
